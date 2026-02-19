@@ -1,0 +1,4 @@
+The project budget is 2.4 million dollars.
+The development phase will last 18 months.
+John Smith is the project manager.
+The system will be deployed in New York.
